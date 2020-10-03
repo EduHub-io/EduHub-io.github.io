@@ -1,1 +1,2 @@
-# EduHub-io.github.io
+# EduHub Core
+Contains files for EduHub Services.
